@@ -1,5 +1,5 @@
-                         Sampledbus Client and Sever application using dbusxx-xml2cpp
-c++ dbus application
+SampleC++dbusCient and Sever application using dbusxx-xml2cpp
+=============================================================
 
 Build command for Adaptor:
 ==========================
