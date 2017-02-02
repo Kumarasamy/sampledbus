@@ -7,7 +7,7 @@ g++ -I/usr/local/include/dbus-c++-1/ adaptor.cpp -ldbus-c++-1 -o adaptor
 
 Build command for Proxy:
 ========================
-g++ -I/usr/local/include/dbus-c++-1/ adaptor.cpp -ldbus-c++-1 -o adaptor
+g++ -I/usr/local/include/dbus-c++-1/ proxy.cpp -ldbus-c++-1 -o proxy
 
 Lib used:
 =========
